@@ -27,9 +27,9 @@ Después ya estaría operativo accediendo a la IP pública de la Pi Zero 2W
 
 ## Cosas por añadir
 
-- Ahora mismo sirve siempre "index.html", podría hacer un servidor web dinámico.
-- Podría protegerse la conexión añadiendo TLS con OpenSSL o similares.
-- Solo maneja una conexión cada vez, podría añadirse concurrencia con threads.
+    Ahora mismo sirve siempre "index.html", podría hacer un servidor web dinámico.
+    Podría protegerse la conexión añadiendo TLS con OpenSSL o similares.
+    Solo maneja una conexión cada vez, podría añadirse concurrencia con threads.
 
 Empleada la guía de Beej's para Network Programming
 https://beej.us/guide/bgnet/html/
